@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<FSGPUpdate>
+	<update appID="FSGPApplication">
+		<version>2.0.0.0</version>
+		<url>https://github.com/FSGPApplication/Deneme/blob/master/FSGPApplication.exe?raw=true</url>
+		<fileName>TestApp.exe</fileName>
+		<md5>ffbb82bb68895b3101a7047125114db6</md5>
+		<description>Yeni Güncelleme Mevcut.</description>
+		<launchArgs></launchArgs>
+	</update>
+</FSGPUpdate>
